@@ -5,7 +5,7 @@ kashyap.speed(0)
 kashyap.pencolor("blue")
 
 for i in range(60):
-    kashyap.forward(75)
+    kashyap.forward(50)
     kashyap.left(123) 
     
 kashyap.pencolor("red")
