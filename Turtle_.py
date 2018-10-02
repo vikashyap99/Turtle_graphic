@@ -4,7 +4,7 @@ kashyap = turtle.Turtle()
 kashyap.speed(0)
 kashyap.pencolor("blue")
 
-for i in range(50):
+for i in range(60):
     kashyap.forward(75)
     kashyap.left(123) 
     
